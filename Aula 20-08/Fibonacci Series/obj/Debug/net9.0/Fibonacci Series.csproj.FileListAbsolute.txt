@@ -1,0 +1,14 @@
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Aula 20-08\Fibonacci Series\bin\Debug\net9.0\Fibonacci Series.exe
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Aula 20-08\Fibonacci Series\bin\Debug\net9.0\Fibonacci Series.deps.json
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Aula 20-08\Fibonacci Series\bin\Debug\net9.0\Fibonacci Series.runtimeconfig.json
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Aula 20-08\Fibonacci Series\bin\Debug\net9.0\Fibonacci Series.dll
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Aula 20-08\Fibonacci Series\bin\Debug\net9.0\Fibonacci Series.pdb
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\Fibonacci Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\Fibonacci Series.AssemblyInfoInputs.cache
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\Fibonacci Series.AssemblyInfo.cs
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\Fibonacci Series.csproj.CoreCompileInputs.cache
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\Fibonacci Series.dll
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\refint\Fibonacci Series.dll
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\Fibonacci Series.pdb
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\Fibonacci Series.genruntimeconfig.cache
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\ref\Fibonacci Series.dll

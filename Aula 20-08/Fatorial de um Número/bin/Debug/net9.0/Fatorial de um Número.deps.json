@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Fatorial de um Número/1.0.0": {
+        "runtime": {
+          "Fatorial de um Número.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fatorial de um Número/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
