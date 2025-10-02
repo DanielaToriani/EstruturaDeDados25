@@ -1,0 +1,15 @@
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Arvores\bin\Debug\net9.0\Arvores.exe
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Arvores\bin\Debug\net9.0\Arvores.deps.json
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Arvores\bin\Debug\net9.0\Arvores.runtimeconfig.json
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Arvores\bin\Debug\net9.0\Arvores.dll
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Arvores\bin\Debug\net9.0\Arvores.pdb
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Arvores\obj\Debug\net9.0\Arvores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Arvores\obj\Debug\net9.0\Arvores.AssemblyInfoInputs.cache
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Arvores\obj\Debug\net9.0\Arvores.AssemblyInfo.cs
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Arvores\obj\Debug\net9.0\Arvores.csproj.CoreCompileInputs.cache
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Arvores\obj\Debug\net9.0\Arvores.sourcelink.json
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Arvores\obj\Debug\net9.0\Arvores.dll
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Arvores\obj\Debug\net9.0\refint\Arvores.dll
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Arvores\obj\Debug\net9.0\Arvores.pdb
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Arvores\obj\Debug\net9.0\Arvores.genruntimeconfig.cache
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\Arvores\obj\Debug\net9.0\ref\Arvores.dll

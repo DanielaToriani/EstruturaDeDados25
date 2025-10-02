@@ -25,4 +25,3 @@ while (center.AreWaitingCalls())
 
     Console.WriteLine($" -- Em: {call.EndTime}");
 }
-

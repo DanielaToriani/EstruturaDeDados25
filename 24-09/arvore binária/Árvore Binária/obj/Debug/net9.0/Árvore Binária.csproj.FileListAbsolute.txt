@@ -1,0 +1,15 @@
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\24-09\arvore binária\Árvore Binária\bin\Debug\net9.0\Árvore Binária.exe
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\24-09\arvore binária\Árvore Binária\bin\Debug\net9.0\Árvore Binária.deps.json
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\24-09\arvore binária\Árvore Binária\bin\Debug\net9.0\Árvore Binária.runtimeconfig.json
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\24-09\arvore binária\Árvore Binária\bin\Debug\net9.0\Árvore Binária.dll
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\24-09\arvore binária\Árvore Binária\bin\Debug\net9.0\Árvore Binária.pdb
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\24-09\arvore binária\Árvore Binária\obj\Debug\net9.0\Árvore Binária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\24-09\arvore binária\Árvore Binária\obj\Debug\net9.0\Árvore Binária.AssemblyInfoInputs.cache
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\24-09\arvore binária\Árvore Binária\obj\Debug\net9.0\Árvore Binária.AssemblyInfo.cs
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\24-09\arvore binária\Árvore Binária\obj\Debug\net9.0\Árvore Binária.csproj.CoreCompileInputs.cache
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\24-09\arvore binária\Árvore Binária\obj\Debug\net9.0\Árvore Binária.sourcelink.json
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\24-09\arvore binária\Árvore Binária\obj\Debug\net9.0\Árvore Binária.dll
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\24-09\arvore binária\Árvore Binária\obj\Debug\net9.0\refint\Árvore Binária.dll
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\24-09\arvore binária\Árvore Binária\obj\Debug\net9.0\Árvore Binária.pdb
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\24-09\arvore binária\Árvore Binária\obj\Debug\net9.0\Árvore Binária.genruntimeconfig.cache
+C:\Users\danit\OneDrive\Documentos\Estrutura de Dados\24-09\arvore binária\Árvore Binária\obj\Debug\net9.0\ref\Árvore Binária.dll
